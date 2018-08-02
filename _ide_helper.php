@@ -1,7 +1,11 @@
 <?php
 /**
  * A helper file for Laravel 5, to provide autocomplete information to your IDE
+<<<<<<< HEAD
  * Generated for Laravel 5.5.34 on 2018-08-02 02:23:02.
+=======
+ * Generated for Laravel 5.5.34 on 2018-08-01 00:57:38.
+>>>>>>> filling-layout-style
  *
  * This file should not be included in your code, only analyzed by your IDE!
  *
